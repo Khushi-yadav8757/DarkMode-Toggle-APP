@@ -8,7 +8,6 @@ The selected theme is stored using **LocalStorage**, so the theme remains saved 
 This project was created during my **Full Stack Web Development training in college while learning JavaScript**.
 
 ---
-
 ## 🚀 Features
 
 ✔ Light & Dark Mode Toggle  
